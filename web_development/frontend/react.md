@@ -29,7 +29,7 @@ https://www.bezkoder.com/react-material-ui-examples-crud/
 [React.js 란?]
 Meta (Facebook)이 개발한 오픈소스 Javascript 라이브러리로, 대규모 웹 서비스의 UI를 더 편하게 개발하기 위해 만들어진 기술.
 
-![React](web_development/frontend/react.png)
+![React](react.png)
   
 [기술적 특징]
 컴포넌트를 기반으로 UI를 표현
